@@ -1,10 +1,10 @@
-# Clone da Página Inicial do YouTube usando Flexbox CSS
+# Clone da Página do YouTube usando Flexbox CSS
 
-Este repositório contém um projeto que visa replicar a página inicial do YouTube usando principalmente Flexbox CSS para o layout e posicionamento dos elementos.
+Este repositório contém um projeto que visa replicar uma página  do YouTube usando principalmente Flexbox CSS para o layout e posicionamento dos elementos.
 
 ## Descrição
 
-O objetivo deste projeto é demonstrar o uso efetivo do Flexbox CSS para criar um layout responsivo semelhante à página inicial do YouTube. Foi desenvolvido como parte de um exercício de aprendizado para aprimorar as habilidades em design e layout com CSS.
+O objetivo deste projeto é demonstrar o uso efetivo do Flexbox CSS para criar um layout responsivo semelhante à uma página do YouTube. Foi desenvolvido como parte de um exercício de aprendizado para aprimorar as habilidades em design e layout com CSS.
 
 ## Conteúdo
 
@@ -14,7 +14,7 @@ O objetivo deste projeto é demonstrar o uso efetivo do Flexbox CSS para criar u
 
 ## Visualização
 
-Para visualizar o clone da página inicial do YouTube, você pode acessar [Projeto-CSS](https://luasant93.github.io/Desafio-CSS02/) (insira o URL do seu projeto hospedado ou o link de visualização, se aplicável).
+Para visualizar o clone da página do YouTube, você pode acessar [Projeto-CSS](https://luasant93.github.io/Desafio-CSS02/) .
 
 ## Como Contribuir
 
